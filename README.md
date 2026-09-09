@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Manasha Pavithra J
-### **AI/ML & Computer Vision Enthusiast • GSoC Aspirant**
+### **AI/ML Enthusiast • GSoC Aspirant**
 
 *B.Tech Artificial Intelligence & Data Science @ Amrita Vishwa Vidyapeetham*
 
