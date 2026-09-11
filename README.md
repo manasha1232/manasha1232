@@ -11,7 +11,8 @@
 
 </div>
 
----
+---<img width="1815" height="1111" alt="Screenshot 2026-09-11 194525" src="https://github.com/user-attachments/assets/ca6df19c-308d-48f7-8400-d7b291803623" />
+
 
 ### 🚀 About Me
 
@@ -104,7 +105,9 @@ Currently, I am building strong foundations in deep learning, actively contribut
 
 <p align="center">
   <a href="https://badges.layer5.io">
-    <img src="design-pioneer-badge.png" alt="Layer5 Design Pioneer Badge" width="120" />
+    <img src="[design-pioneer-badge.png](https://github.com/user-attachments/assets/b16d3270-63d4-4f45-813e-93aff8bff1fe)" alt="Layer5 Design Pioneer Badge" width="120" />
+
+
   </a>
 </p>
 
