@@ -102,13 +102,26 @@ Currently, I am building strong foundations in deep learning, actively contribut
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manasha1232&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manasha's GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasha1232&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manasha1232&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manasha's GitHub Stats" height="165"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasha1232&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<br/>
 
 ### 🏆 Badges & Achievements
-[![Layer5 Design Pioneer Badge](https://badges.layer5.io/assets/badges/design-pioneer.png)](https://badges.layer5.io)
+
+<p align="center">
+  <a href="https://badges.layer5.io">
+    <img src="design-pioneer-badge.png" alt="Layer5 Design Pioneer Badge" width="150"/>
+   <img width="609" height="646" alt="Screenshot 2026-09-11 193644" src="https://github.com/user-attachments/assets/16981bd1-67f0-4eda-93b2-c19f2ecd56ce" />
+
+  </a>
+</p>
+
+<br/>
+
 ---
 
 ### 📫 Connect With Me
