@@ -11,7 +11,6 @@
 
 </div>
 
----<img width="1815" height="1111" alt="Screenshot 2026-09-11 194525" src="https://github.com/user-attachments/assets/ca6df19c-308d-48f7-8400-d7b291803623" />
 
 
 ### 🚀 About Me
@@ -99,12 +98,9 @@ Currently, I am building strong foundations in deep learning, actively contribut
 - 🏅 **NPTEL**: Foundations of Deep Learning: Concepts and Applications
 - 🏅 **IBM**: Machine Learning with Python
 
-
-
-
 <p align="center">
   <a href="https://badges.layer5.io">
-    <img width="609" height="646" alt="design-pioneer-badge" src="https://github.com/user-attachments/assets/da0be561-0339-4897-b643-7f4fe3fd7818" />
+    <img width="60" height="64" alt="design-pioneer-badge" src="https://github.com/user-attachments/assets/da0be561-0339-4897-b643-7f4fe3fd7818" />
   </a>
 </p>
 
