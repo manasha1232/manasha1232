@@ -101,6 +101,7 @@ Currently, I am building strong foundations in deep learning, actively contribut
 <p align="center">
   <a href="https://badges.layer5.io">
     <img width="60" height="64" alt="design-pioneer-badge" src="https://github.com/user-attachments/assets/da0be561-0339-4897-b643-7f4fe3fd7818" />
+   <caption> Layer5 Design Pioneer Badge</caption>caption
   </a>
 </p>
 
