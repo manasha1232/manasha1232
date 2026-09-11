@@ -99,19 +99,20 @@ Currently, I am building strong foundations in deep learning, actively contribut
 - 🏅 **NPTEL**: Foundations of Deep Learning: Concepts and Applications
 - 🏅 **IBM**: Machine Learning with Python
 
----
 
-### 🏆 Badges & Achievements
+
 
 <p align="center">
   <a href="https://badges.layer5.io">
-    <img src="[design-pioneer-badge.png](https://github.com/user-attachments/assets/b16d3270-63d4-4f45-813e-93aff8bff1fe)" alt="Layer5 Design Pioneer Badge" width="120" />
-
-
+    <img width="609" height="646" alt="design-pioneer-badge" src="https://github.com/user-attachments/assets/da0be561-0339-4897-b643-7f4fe3fd7818" />
   </a>
 </p>
 
 ---
+
+---
+
+
 
 ### 📫 Connect With Me
 
