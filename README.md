@@ -107,6 +107,8 @@ Currently, I am building strong foundations in deep learning, actively contribut
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasha1232&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175"/>
 </div>
 
+### 🏆 Badges & Achievements
+[![Layer5 Design Pioneer Badge](https://badges.layer5.io/assets/badges/design-pioneer.png)](https://badges.layer5.io)
 ---
 
 ### 📫 Connect With Me
